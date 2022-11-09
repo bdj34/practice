@@ -1,5 +1,5 @@
 simple_fn <- function(x){
-  # Comment
+  # Comment changed
   return(x^2+2)
   
 }
